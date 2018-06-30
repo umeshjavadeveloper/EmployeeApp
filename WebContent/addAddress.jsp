@@ -2,6 +2,9 @@
     <meta charset="utf-8">
     <meta name="robots" content="noindex, nofollow">
 
+	
+	
+	
     <title>Generic postal address form - Bootsnipp.com</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" rel="stylesheet" id="bootstrap-css">
