@@ -42,6 +42,9 @@ public class DepartmentDaoImpl implements DepartmentDao {
 		session.close();
 	}
 
+	/* (non-Javadoc)
+	 * @see com.mythri.dao.DepartmentDao#getDepartmentById(int)
+	 */
 	@Override
 	public Department getDepartmentById(int id) {
 		Session session = sessionFactory.openSession();
