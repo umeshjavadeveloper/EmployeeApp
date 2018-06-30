@@ -4,6 +4,8 @@
 <title>Welcome to Online Registration</title>
 </head>
 <body>
+
+
 	<h1>Login Page</h1>
 	<font color="Red">${msg}</font>    
 		<form action="login" method = "POST" >
